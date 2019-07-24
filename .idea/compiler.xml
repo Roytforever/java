@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day01_eesy_01anno_ioc" />
+        <module name="day01_eesy_01jdbc" />
+        <module name="day01_eesy_01mybatis" />
+        <module name="day01_eesy_02factory" />
+        <module name="day01_eesy_02mybatis_annotation" />
+        <module name="day01_eesy_03mybatis_dao" />
+        <module name="day01_eesy_03spring" />
+        <module name="day01_eesy_04bean" />
+        <module name="day01_eesy_04mybatis_design" />
+        <module name="day01_eesy_05DI" />
+        <module name="day02_eesy_01anno_ioc" />
+        <module name="day02_eesy_01mybatisCRUD" />
+        <module name="day02_eesy_02account_xmlioc" />
+        <module name="day02_eesy_02mybatsiDAO" />
+        <module name="day02_eesy_03account_annoioc" />
+        <module name="day02_eesy_04account_annoioc_withoutxml" />
+        <module name="day02_eesy_dbassit" />
+        <module name="day02_eesy_dbutils" />
+        <module name="day03_eesy_01account" />
+        <module name="day03_eesy_02proxy" />
+        <module name="day03_eesy_03springAOP" />
+        <module name="day03_eesy_04adviceType" />
+        <module name="day03_eesy_05annotationAOP" />
+        <module name="day04_eesy_01jdbctemplate" />
+        <module name="day04_eesy_02account_aoptx_xml" />
+        <module name="day04_eesy_03account_aoptx_anno" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day01_eesy_01anno_ioc" target="1.5" />
+      <module name="day01_eesy_01jdbc" target="1.5" />
+      <module name="day01_eesy_01mybatis" target="1.5" />
+      <module name="day01_eesy_02factory" target="1.5" />
+      <module name="day01_eesy_02mybatis_annotation" target="1.5" />
+      <module name="day01_eesy_03mybatis_dao" target="1.5" />
+      <module name="day01_eesy_03spring" target="1.5" />
+      <module name="day01_eesy_04bean" target="1.5" />
+      <module name="day01_eesy_04mybatis_design" target="6" />
+      <module name="day01_eesy_05DI" target="1.5" />
+      <module name="day02_eesy_01anno_ioc" target="1.5" />
+      <module name="day02_eesy_01mybatisCRUD" target="1.5" />
+      <module name="day02_eesy_02account_xmlioc" target="6" />
+      <module name="day02_eesy_02mybatsiDAO" target="1.5" />
+      <module name="day02_eesy_03account_annoioc" target="6" />
+      <module name="day02_eesy_04account_annoioc_withoutxml" target="1.5" />
+      <module name="day02_eesy_dbassit" target="1.5" />
+      <module name="day02_eesy_dbutils" target="6" />
+      <module name="day03_eesy_01account" target="6" />
+      <module name="day03_eesy_02proxy" target="6" />
+      <module name="day03_eesy_03springAOP" target="1.5" />
+      <module name="day03_eesy_04adviceType" target="6" />
+      <module name="day03_eesy_05annotationAOP" target="1.5" />
+      <module name="day04_eesy_01jdbctemplate" target="6" />
+      <module name="day04_eesy_02account_aoptx_xml" target="6" />
+      <module name="day04_eesy_03account_aoptx_anno" target="6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

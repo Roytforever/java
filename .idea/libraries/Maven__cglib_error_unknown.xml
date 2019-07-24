@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: cglib:error:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-2.1.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/asm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
